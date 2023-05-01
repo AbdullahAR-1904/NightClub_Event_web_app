@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+form {
+  margin: 0 auto;
+  width: 50%;
+  background-color: #fff;
+  padding: 20px;
+}
+/* .slideshow-container {
+    display: flex;
+    overflow: hidden;
+    width: 100%;
+  }
+  
+  .slider {
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .slider-container {
+    display: flex;
+    transition: transform 2s;
+  }
+  
+  .slider-container img {
+    flex: 1 0 20%;
+    margin-right: 10px;
+  }
+  
+  .slider-container img:last-child {
+    margin-right: 0;
+  }
+  img {
+    height: 200px;
+    width: 200px;
+  }   */
+  
+ 
